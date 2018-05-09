@@ -1,3 +1,3 @@
 # week1
 My First Repo
-read me file
+read me file contrib. Daniela Dantas
